@@ -13,8 +13,8 @@
 
 // estas sao variaveis  que nao podem ser alterada.
 
-static const int GRID_ROWNS = 8;
-static const int GRID_COLUMNS =10;
+static const int GRID_ROWNS = 10;
+static const int GRID_COLUMNS = 8;
 
 @implementation Grid{
     
